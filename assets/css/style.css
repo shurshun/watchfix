@@ -93,6 +93,12 @@ strong.white { color: inherit; }
 .person-active {z-index: 100; border-color: #d8230e;}
 .person-active .person-desc {background: url('../img/bg-person-red.png') repeat scroll 0 0 transparent;}
 
+/* Home Keys section */
+#home-keys .container {padding: 60px 0;}
+#home-keys .dotted-white {padding-bottom: 50px}
+
+
+
 /* Contact section */
 #contact .container {padding: 25px 0;}
 #contact h3 {color: #fff; font-size: 16px; line-height: 18px; margin: 0 0 5px 0;}
